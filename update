@@ -1,0 +1,21 @@
+{
+
+  "Visibility": "VISIBLE",
+
+  "Title": "New Update",
+
+  "Description": "Update Version 6.4 ပါနော်ဂေါင်းကြီးတို့
+
+error တစ်ချို့ရယ် ads တေဖြုတ်လိုက်ပါပီ",
+
+  "MainTextButton": "Update Install ",
+
+  "Cancelable": "true",
+
+  "CancelButtonText":"Cancel",
+
+  "DownloadLink": "https://play.google.com/store/apps/details?id=com.my.puccci&pli=1",
+
+  "Version": "6.4"
+
+}
