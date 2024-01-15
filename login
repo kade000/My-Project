@@ -5,12 +5,12 @@
 "title": "Paradise"
 },
 {
-"iamge" :"https://www.dropbox.com/scl/fi/xmwmag87ctmmxqheyk0vt/s2.jpg?rlkey=rl0vzhet2f3rk4qymleuksdxd&dl=1",
+"iamge": "https://www.dropbox.com/scl/fi/xmwmag87ctmmxqheyk0vt/s2.jpg?rlkey=rl0vzhet2f3rk4qymleuksdxd&dl=1",
 
 "title": "Paradise"
 },
 {
-"iamge" :"https://www.dropbox.com/scl/fi/hwga4vq1ic46doyztv187/s3.jpg?rlkey=jr5ch3gg5s1e4jnr8zztf7wvx&dl=1",
+"iamge": "https://www.dropbox.com/scl/fi/hwga4vq1ic46doyztv187/s3.jpg?rlkey=jr5ch3gg5s1e4jnr8zztf7wvx&dl=1",
 
 "title": "Paradise"
 },
@@ -25,7 +25,7 @@
 "title": "Paradise"
 },
 {
-"iamge" :"https://www.dropbox.com/scl/fi/9puzpyjjbkd9jv6b7ycqv/s8.jpg?rlkey=3fl0kb0mo8ggac1c4rjat5367&dl=1",
+"iamge": "https://www.dropbox.com/scl/fi/9puzpyjjbkd9jv6b7ycqv/s8.jpg?rlkey=3fl0kb0mo8ggac1c4rjat5367&dl=1",
 
 "title": "Paradise"
 },
