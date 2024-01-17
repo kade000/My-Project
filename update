@@ -4,9 +4,7 @@
 
   "Title": "New Update",
 
-  "Description": "Update Version 6.4 ပါနော်ဂေါင်းကြီးတို့
-
-error တစ်ချို့ရယ် ads တေဖြုတ်လိုက်ပါပီ",
+  "Description": "Update Version 1.4 ပါနော်ဂေါင်းကြီးတို့ ",
 
   "MainTextButton": "Update Install ",
 
@@ -16,6 +14,6 @@ error တစ်ချို့ရယ် ads တေဖြုတ်လိုက်
 
   "DownloadLink": "https://play.google.com/store/apps/details?id=com.my.puccci&pli=1",
 
-  "Version": "1.2"
+  "Version": "1.3"
 
 }
