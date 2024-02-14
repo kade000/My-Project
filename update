@@ -4,7 +4,7 @@
 
   "Title": "New Update",
 
-  "Description": "Update Version 1.5 Brotherတို့ 1.4က Watchမရတဲ့ပြသနာ ဖြေရှင်းလိုက်ပါဘီ၊ APPထဲတင် ဇတ်ကားတွေ ကြည့်လို့ရပါပြီနော်။",
+  "Description": "Update Version 1.6 ပါ Brotherတို့ Errorလေးတွေရှင်းထားပါတယ်။",
 
   "MainTextButton": "Update Install ",
 
@@ -12,8 +12,7 @@
 
   "CancelButtonText":"Cancel",
 
-  "DownloadLink": "https://www.mediafire.com/file/j4qg81o623mu620/Paradise+V1.5.apk/file",
-
-  "Version": "1.5"
+  "DownloadLink": "https://github.com/kade000/Paradise/raw/main/Paradise%20V1.6.apk",
+  "Version": "1.6"
 
 }
