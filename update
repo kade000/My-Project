@@ -4,7 +4,7 @@
 
   "Title": "New Update",
 
-  "Description": "Update Version 1.6 ပါ Brotherတို့ Errorလေးတွေရှင်းထားပါတယ်။",
+  "Description": "Update Version 1.7 ပါ ခေါင်းကြီးတို့ရေ... အသစ်လေးတွေနေ့တိုင်းလင်းပေးတော့မယ်နော်  ။",
 
   "MainTextButton": "Update Install ",
 
@@ -12,7 +12,7 @@
 
   "CancelButtonText":"Cancel",
 
-  "DownloadLink": "https://github.com/kade000/Paradise/raw/main/Paradise_V1.6.apk",
-  "Version": "1.6"
+  "DownloadLink": "https://github.com/kade000/Paradise/raw/main/ParadiseV_1.7.apk",
+  "Version": "1.7"
 
 }
