@@ -4,9 +4,8 @@
 
   "Title": "New Update",
 
-  "Description": "Update Version 1.8 ပါ Updateက VIP keyလက်ဆောင်ပေးခြင်လို့ပါ။ Updateတင်ပြီးပြီးချင်း Paradise Facebook pageနဲ့ Telegram ChannelကိုJoinပြီး ကျွန်တော့် 
- Page messenge or Telegram Admin accကို အရင်ဆုံး Keyလာတောင်းတဲ့သူ ၅ ဦးကို တသက်စာ Vip keyလက်ဆောင်ပေးမှာပါခင်ဗျ။ 
-  24-2-2023",
+  "Description": "Update Version 1.9 ပါဗျ  errorတချို့ပြင်ထားပါတယ်။ စာဖတ်ချင်တဲ့ညိုကီတို့တွက်ပါ ဇတ်လေးတွေတင်ဆက်ပေးပါမယ်ဗျ။ 2.0ကြ givewayလေးလာပါမယ်
+မင်မင် အဆင်မပြေသေးလို့အခု update မှာမပေးနိုင်သေးတာပါဗျ။",
 
   "MainTextButton": "Update Install ",
 
@@ -14,7 +13,7 @@
 
   "CancelButtonText":"Cancel",
 
-  "DownloadLink": "https://github.com/kade000/Paradise/raw/main/ParadiseV1.8.apk",
-  "Version": "1.8"
+  "DownloadLink": "https://github.com/kade000/Paradise/raw/main/ParadiseV1.9.apk",
+  "Version": "1.9"
 
 }
