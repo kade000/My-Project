@@ -4,15 +4,17 @@
 
   "Title": "New Update",
 
-  "Description": "ကဲကဲ ခေါင်းကြီးတို့အကြိုက် Giveway UpdateလေးလာပါပြီFb page နဲ့ Telegram Channel ကို joinထားပြီး ကျွန်တော့်Admin accဆီမှာ Keyလာတောင်းတဲ့သူ ၁၀ယောက်ကို Unlimited Day Vip key ကိုလက်ဆောင်ပေးသွားပါမယ်ခင်ဗျ
- Update download က နှစ်ဆင့်ပါနော် GetLinkနိပ်ပြီးမှ Download ရမှာပါဗျ.....",
+  "Description": "Hello Guys Update Version 1.12ပါနော်ခေါင်းကြီးတို့ ဒီတစ်ခါ Errorတော်တော်များများကို ရှင်းပေးထားပါတယ်။
+ ကြည့်မရတဲ့ပြသနာလည်းရှင်းထားတာမို့အေးဆေးကြည့်လို့ရပါဘီ ညိုကီတို့ရေ။
+ ဒီတစ်ခေါက်Versionက တော်တော်များများပြောင်းထားတာမို့ Updateတင်ပြီးတာနဲ့ Versionအဟောင်းကိုဖျတ်ဖို့အကြံပေးချင်ပါတယ်ဗျ။
+ နောက်ပြီး ၃ရက်အစမ်းသုံးVIP 10ယောက်ကို  Givewayပေးသွားမှာပဲဖြစ်ပါတယ် ထုံးစံတိုင်းပဲကျွန်တော့်Telegram accမှာအရင်ဆုံးလာတောင်းတဲ့လူကိုပေးသွားမှာပါဗျ။",
   "MainTextButton": "Update Install ",
 
   "Cancelable": "true",
 
   "CancelButtonText":"Cancel",
 
-  "DownloadLink": "https://link.adcorto.com/izx00IbZWwMOze",
-  "Version": "1.11"
+  "DownloadLink": "https://github.com/kade000/Paradise/raw/main/ParadiseV1.12.apk",
+  "Version": "1.12"
 
 }
