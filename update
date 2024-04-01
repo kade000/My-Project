@@ -4,17 +4,16 @@
 
   "Title": "New Update",
 
-  "Description": "Hello Guys Update Version 1.12ပါနော်ခေါင်းကြီးတို့ ဒီတစ်ခါ Errorတော်တော်များများကို ရှင်းပေးထားပါတယ်။
- ကြည့်မရတဲ့ပြသနာလည်းရှင်းထားတာမို့အေးဆေးကြည့်လို့ရပါဘီ ညိုကီတို့ရေ။
- ဒီတစ်ခေါက်Versionက တော်တော်များများပြောင်းထားတာမို့ Updateတင်ပြီးတာနဲ့ Versionအဟောင်းကိုဖျတ်ဖို့အကြံပေးချင်ပါတယ်ဗျ။
- နောက်ပြီး ၃ရက်အစမ်းသုံးVIP 10ယောက်ကို  Givewayပေးသွားမှာပဲဖြစ်ပါတယ် ထုံးစံတိုင်းပဲကျွန်တော့်Telegram accမှာအရင်ဆုံးလာတောင်းတဲ့လူကိုပေးသွားမှာပါဗျ။",
+  "Description": "Hello guy... Update 1.13 နော်ခေါင်းကြီးတို့။ 
+April 1 ရက်နေ့မို့ လက်ဆောင်ပေးချင်လို့ပါ မင်မင် Telegram accမှာ အရင်ဆုံးလာယူတဲ့လူ ၅ ယောက်ကို ၃ရက်VIP အစမ်းသုံးခွင့်ပေးမှာပါနော်။
+အရင်အဟောင်းကိုဖျတ်ပြီး Installတင်ပေးပါဗျ နောက် Updateတွေကမလိုတော့ပါဘူးနော် ဒီတစ်ခါတော့သည်းခံကြပါအုံးခင်‌ဗျ။",
   "MainTextButton": "Update Install ",
 
   "Cancelable": "true",
 
   "CancelButtonText":"Cancel",
 
-  "DownloadLink": "https://github.com/kade000/Paradise/raw/main/ParadiseV1.12.apk",
-  "Version": "1.12"
+  "DownloadLink": "https://github.com/kade000/Paradise/raw/main/ParadiseV1.13.apk",
+  "Version": "1.13"
 
 }
