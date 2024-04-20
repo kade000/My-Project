@@ -4,16 +4,13 @@
 
   "Title": "New Update",
 
-  "Description": "Hello guy... Update 1.13 နော်ခေါင်းကြီးတို့။ 
-April 1 ရက်နေ့မို့ လက်ဆောင်ပေးချင်လို့ပါ မင်မင် Telegram accမှာ အရင်ဆုံးလာယူတဲ့လူ ၅ ယောက်ကို ၃ရက်VIP အစမ်းသုံးခွင့်ပေးမှာပါနော်။
-အရင်အဟောင်းကိုဖျတ်ပြီး Installတင်ပေးပါဗျ နောက် Updateတွေကမလိုတော့ပါဘူးနော် ဒီတစ်ခါတော့သည်းခံကြပါအုံးခင်‌ဗျ။",
-  "MainTextButton": "Update Install ",
+  "Description": "Hello guys... Update 1.14 ပါနော် ညိုကီတို့ရေ အရင်ဟောင်းကိုဖျတ်စရာမလိုတော့ပါဘူးနော် Download ဆွဲပီး တန်းinstallယုံပဲ",
 
   "Cancelable": "true",
 
   "CancelButtonText":"Cancel",
 
-  "DownloadLink": "https://github.com/kade000/Paradise/raw/main/ParadiseV1.13.apk",
-  "Version": "1.13"
+  "DownloadLink": "https://github.com/kade000/Paradise/raw/main/ParadiseV1.14.apk",
+  "Version": "1.14"
 
 }
